@@ -1,0 +1,21 @@
+C:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\studkab43\Desktop\я Миша\Tupamiha\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\studkab43\Desktop\я Миша\Tupamiha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\studkab43\Desktop\я Миша\Tupamiha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\studkab43\Desktop\я Миша\Tupamiha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\studkab43\Desktop\я Миша\Tupamiha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\studkab43\Desktop\я Миша\Tupamiha\WindowsFormsApplication2\bin\Debug\Bondarev.mdb
+C:\Users\studkab43\Desktop\я Миша\Tupamiha\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\studkab43\Desktop\я Миша\Tupamiha\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\studkab43\Desktop\я Миша\Tupamiha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\studkab43\Desktop\я Миша\Tupamiha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\я Миша\Tupamiha\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\я Миша\Tupamiha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\я Миша\Tupamiha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\я Миша\Tupamiha\WindowsFormsApplication2\bin\Debug\Bondarev.mdb
+C:\я Миша\Tupamiha\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\я Миша\Tupamiha\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\я Миша\Tupamiha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\я Миша\Tupamiha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\я Миша\Tupamiha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\я Миша\Tupamiha\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
